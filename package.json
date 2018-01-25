@@ -1,0 +1,27 @@
+{
+  "name": "jq-bs-starter",
+  "version": "1.0.0",
+  "description": "quickly to start a jquery & bootstrap project width hot reload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "root@git.teamsz.xyz:Molunerfinn/jq-bs-starter.git"
+  },
+  "keywords": [
+    "jquery",
+    "bootstrap",
+    "quickly",
+    "starter"
+  ],
+  "author": "Molunerfinn",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.7.0",
+    "nib": "^1.1.2"
+  }
+}
