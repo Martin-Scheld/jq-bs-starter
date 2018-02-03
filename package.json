@@ -4,7 +4,7 @@
   "description": "quickly to start a jquery & bootstrap project width hot reload.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
